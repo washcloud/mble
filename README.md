@@ -1,11 +1,11 @@
 Micro Bluetooth Low Energy (mBLE)
 =================================
 
-This project was started for the hackthehouse.io hackathon in Berlin, Germany 
+This project was started for the http://hackthehouse.io hackathon in Berlin, Germany 
 (February, 27 - March 1).
 
 This Repo consits of the Linux bluetooth code, used to bridge events from
-relayr.io mqtt event bus over bluetooth to the relayr wunderbar.
+https://relayr.io mqtt event bus over bluetooth to the relayr wunderbar.
 
 Code
 ----
@@ -21,6 +21,6 @@ Code to find BLE devices like the relayr.io wunderbar.
 
 mble is a pure linux/c implementation of gatt.
 It handles a mqtt connection to the relayr mqtt broker which has a connection to
-the cloud services of Bosch Siemens Home appliances (BSH).
+the cloud services of Bosch Siemens Home appliances (BSH - https://www.bsh-group.de/).
 
 
